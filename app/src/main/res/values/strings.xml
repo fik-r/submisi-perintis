@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission Perintis</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Login Page</string>
+    <string name="login">Login</string>
+    <string name="large_title">Large Title</string>
+    <string name="page_title">Page Title</string>
+    <string name="title_name">Name :</string>
+    <string name="title_dob">Birth Of Date :</string>
+    <string name="title_email">Email :</string>
+    <string name="facebook_app_id">843231666579741</string>
+    <string name="fb_login_protocol_scheme">fb843231666579741</string>
+    <string name="title_login_socmed">Login via Socmed</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="services">Services</string>
+
+</resources>
